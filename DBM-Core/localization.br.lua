@@ -37,13 +37,13 @@ L.NO_RANGE 							= "O quadro de distância não pode ser usado devido a restri�
 L.NO_ARROW 							= "A seta não pode ser usada em instâncias."
 L.NO_HUD 							= "O HUDMap não pode ser usado em instâncias."
 
-L.DYNAMIC_DIFFICULTY_CLUMP			= L.DBM .. " desabilitou o quadro de distância dinâmico nesta luta, por falta de informação sobre o número de jogadores à ficarem amontoados para um grupo desse tamanho."
-L.DYNAMIC_ADD_COUNT					= L.DBM .. " desabilitou aviso da contagem de adds nesta luta, por falta de informação da quantidade de adds para um grupo deste tamanho."
-L.DYNAMIC_MULTIPLE					= L.DBM .. " desabilitou varias funções desta luta por causa da falta de informação sobre certas mecânicas para um grupo deste tamanho."
+L.DYNAMIC_DIFFICULTY_CLUMP			= L.DBM .. " desativou o quadro de distância dinâmico nesta luta, por falta de informação sobre o número de jogadores à ficarem amontoados para um grupo desse tamanho."
+L.DYNAMIC_ADD_COUNT					= L.DBM .. " desativou aviso da contagem de adds nesta luta, por falta de informação da quantidade de adds para um grupo deste tamanho."
+L.DYNAMIC_MULTIPLE					= L.DBM .. " desativou varias funções desta luta por causa da falta de informação sobre certas mecânicas para um grupo deste tamanho."
 
 L.LOOT_SPEC_REMINDER				= "A sua especialização atual é %s. A sua escolha atual de saque é %s."
 
-L.BIGWIGS_ICON_CONFLICT				= L.DBM .. " detectou que você tem ícones habilitados tanto no BigWigs quanto no " .. L.DBM .. ". Por favor desabilite um dos dois para evitar conflitos com o líder da raide"
+L.BIGWIGS_ICON_CONFLICT				= L.DBM .. " detectou que você tem ícones habilitados tanto no BigWigs quanto no " .. L.DBM .. ". Por favor desative um dos dois para evitar conflitos com o líder da raide"
 
 L.MOD_AVAILABLE						= "%s esta disponível para este conteúdo. Você pode baixá-lo no Curse, Wago, WoWI ou Github."
 L.MOD_MISSING						= "Sem módulo de raide"
