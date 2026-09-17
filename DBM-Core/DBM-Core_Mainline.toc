@@ -22,6 +22,7 @@
 ## Author: MysticalOS, QartemisT
 ## Version: @project-version@
 ## X-Curse-Project-ID: 3358
+## X-Wago-ID: qv633o6b
 ## X-Website: https://deadlybossmods.com
 
 Libs\LibStub\LibStub.lua
@@ -86,7 +87,7 @@ DBM-Flash.lua
 DBM-RangeCheck.lua
 DBM-InfoFrame.lua
 DBM-HudMap.lua
-DBM-Nameplate.lua
+DBM-Nameplate-Mainline.lua
 
 # GUI Features
 modules\gui\Gear.lua
